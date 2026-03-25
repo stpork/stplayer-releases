@@ -1,4 +1,4 @@
-# 🔹 Privacy Policy (Google Play Ready)
+# Privacy Policy
 **Last updated:** March 2026
 
 This application ("the App") does not collect personal data directly. However, it uses third-party services and network protocols that may process certain technical information as described below.
