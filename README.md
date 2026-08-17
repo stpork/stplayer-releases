@@ -74,9 +74,9 @@ Users with access to the extended catalog get additional sources, including a la
 The app does not access your location, contacts, microphone, or camera.
 
 ## Privacy
-The app uses Google Firebase for crash reporting and performance monitoring, and communicates with the audiobook sources you browse. No personal data is collected by the developer.
+Production builds use Google Firebase Crashlytics for crash diagnostics (not Firebase Analytics or Performance Monitoring), and the app communicates with the audiobook sources and peer-to-peer networks you choose to use. Optional cross-device synchronization sends end-to-end encrypted snapshots through independent public Nostr relays; relay-visible technical metadata is described in the policy.
 
-See the full [Privacy Policy](docs/index.md).
+See the full [Privacy Policy](docs/index.html).
 
 ## License
 © 2025–2026 stpork. All rights reserved.
